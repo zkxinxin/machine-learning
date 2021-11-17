@@ -7,7 +7,7 @@
 
 代码文件见SVM.py
 
-运行出来可视化的图片见figure1.png,figure2.png,figure3.png
+运行出来可视化的图片见Figure1.png, Figure2.png, Figure3.png
 
 2.程序说明
 
