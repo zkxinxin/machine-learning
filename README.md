@@ -1,4 +1,4 @@
-# maching-learning
+# machine-learning
 支持向量机（SVM）识别手写数字数据集
 
 1.文件介绍
