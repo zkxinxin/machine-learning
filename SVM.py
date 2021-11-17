@@ -134,7 +134,7 @@ def look_plot(n):
 if __name__ == '__main__':
 
     # 读取数据并划分测试集、训练集
-    X, y =load_data('E:\\python\\train.csv')
+    X, y =load_data('E:\\python\\dataset.csv')
     X_train,X_test,y_train,y_test=train_test_split(X,y,test_size=0.3,random_state=111)
     print("X train shape: {}, X test shape: {} ".format(X_train.shape, X_test.shape))  # 训练集29400个数据,测试集12600个数据
 
